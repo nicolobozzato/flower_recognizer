@@ -1,4 +1,4 @@
-# flower_recognizer_recognizer
+# flower_recognizer
 
 Flower recognizer with NN in Flutter
 
