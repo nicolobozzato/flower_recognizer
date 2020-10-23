@@ -1,4 +1,4 @@
-package com.bozzato.nicolo.dog_cat_recognizer
+package com.bozzato.nicolo.flower_recognizer
 
 import io.flutter.embedding.android.FlutterActivity
 

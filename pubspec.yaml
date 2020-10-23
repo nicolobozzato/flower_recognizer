@@ -1,5 +1,5 @@
-name: dog_cat_recognizer
-description: Dog Cat recognizer with NN in Flutter
+name: flower_recognizer
+description: Flower recognizer with NN in Flutter
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.

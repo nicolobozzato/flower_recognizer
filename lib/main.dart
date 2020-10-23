@@ -1,4 +1,4 @@
-import 'package:dog_cat_recognizer/splash.dart';
+import 'package:flower_recognizer/splash.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Cat Dog Recognizer',
+      title: 'Flower Recognizer',
       home: MySplash(),
       debugShowCheckedModeBanner: false,
     );

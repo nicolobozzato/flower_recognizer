@@ -1,6 +1,6 @@
-# dog_cat_recognizer
+# flower_recognizer_recognizer
 
-Dog Cat recognizer with NN in Flutter
+Flower recognizer with NN in Flutter
 
 ## Getting Started
 
